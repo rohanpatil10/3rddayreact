@@ -6,7 +6,7 @@ const Employee = ({emp}) => {
     <div>
       <h2>name-{emp.ename} </h2>
       <h2>salary-{emp.salary} </h2>
-      <p>my name is RR</p>
+      <p>my name is R</p>
     </div>
   )
 }
